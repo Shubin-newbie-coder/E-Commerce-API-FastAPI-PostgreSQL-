@@ -58,6 +58,9 @@
 
 ## ຮູບພາບຕົວຢ່າງ 
 Products
+Key token login
+<img width="1360" height="471" alt="image" src="https://github.com/user-attachments/assets/81c8d5ad-47b8-4cb0-87a8-f25be5975d9b" />
+Products
 <img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/20cc2548-84af-4279-8c94-763368b800d7" />
 Orders
 <img width="1911" height="1028" alt="image" src="https://github.com/user-attachments/assets/37952e7a-d429-4c48-912d-3219acfa90ac" />
