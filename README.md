@@ -29,21 +29,19 @@
 - database.py    
 ## 🚀 Installation & Setup
 ### Clone Project
-git clone https://github.com/Shubin-newbie-coder/E-Commerce-API-FastAPI-PostgreSQL-JWT.git
-
+ git clone https://github.com/Shubin-newbie-coder/E-Commerce-API-FastAPI-PostgreSQL-JWT.git
 ### Create Virtual Environment
-python -m venv venv
-venv\Scripts\activate
-
+ python -m venv venv
+ venv\Scripts\activate
 ### Install Dependencies
-- pip install -r requirements.txt
+ pip install -r requirements.txt
 ### Setup Environment Variables
-''' DATABASE_URL=postgresql://username:password@localhost:5432/ecommerce_db
-SECRET_KEY=your_secret_key
-ALGORITHM=HS256
-ACCESS_TOKEN_EXPIRE_MINUTES=30 '''
+ DATABASE_URL=postgresql://username:password@localhost:5432/ecommerce_db
+ SECRET_KEY=your_secret_key
+ ALGORITHM=HS256
+ACCESS_TOKEN_EXPIRE_MINUTES=30
 ### Run Server
-- uvicorn app.main:app --reload
+ uvicorn app.main:app --reload
 
 ## 🔐 Authentication Flow
 - Register User
